@@ -35,7 +35,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
-
 Describe any challenges encountered while building the app.
 
 I did not face any challenges while building this app (Calc-Tip)
